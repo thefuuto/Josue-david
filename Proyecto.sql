@@ -1,3 +1,4 @@
+/* Nombre: Josue David Santana Justo Matricula: 21-EIIT-1-020 Sección: 0541 */
 CREATE TABLE student(
      stu_id INT PRIMARY KEY,
      stu_name VARCHAR(30),
